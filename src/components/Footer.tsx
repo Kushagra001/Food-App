@@ -55,7 +55,7 @@ const Footer: React.FC = () => {
         </div>
         
         <div className="border-t border-gray-800 mt-8 pt-8 text-sm text-gray-400">
-          <p>&copy; 2025 Swiggy Clone. All rights reserved.</p>
+          <p>&copy; 2025 Food Delivery App. Kushagra Singh Negi All rights reserved.</p>
         </div>
       </div>
     </footer>
